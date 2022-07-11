@@ -17,7 +17,7 @@
     ⭐<a href='https://jupyter.org/install'>Link cài Jupyter lab</a>
 
 
-## 📫 Contributing to Simple-Calculator
+## 📫 Contributing to Python_IDE
 Để đóng góp Python_IDE hãy làm theo các bước sau:
 
     >1. Fork kho lưu trữ này.
